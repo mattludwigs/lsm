@@ -25,6 +25,7 @@ This is kinda a list of things to read and work through.
 ## Embedded Systems
 
 - [ESE 101](https://www.embedded.fm/blog/ese101)
+- [Getting Started in Embedded Systems](https://www.lynda.com/C-tutorials/Getting-started-embedded-systems/748577/778753-4.html?srchtrk=index%3a9%0alinktypeid%3a2%0aq%3asystems+programming%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2)
 
 ## LoRa
 
