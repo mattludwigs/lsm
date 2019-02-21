@@ -13,7 +13,7 @@ This is kinda a list of things to read and work through.
 - [Inside The C Standard Library](https://begriffs.com/posts/2019-01-19-inside-c-standard-lib.html)
 - [Implementing a Dynamic Array](https://www.happybearsoftware.com/implementing-a-dynamic-array)
 
-## Programming Langugages
+## Programming Languages
 
 - [Write you A Haskell (WYAH)](http://dev.stephendiehl.com/fun/)
 
