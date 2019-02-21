@@ -39,3 +39,4 @@ This is kinda a list of things to read and work through.
 
 - [Uppsala University OS Spring 2018](http://www.it.uu.se/education/course/homepage/os/vt18/)
 - [Uppsala University OS Spring 2018 GitHub](https://github.com/uu-os-2018)
+- [Build an OS in Rust](https://os.phil-opp.com/)
