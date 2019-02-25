@@ -17,6 +17,10 @@ This is kinda a list of things to read and work through.
 
 - [Write you A Haskell (WYAH)](http://dev.stephendiehl.com/fun/)
 
+## Data Structures
+
+- [Pureply Functional Data Structures](https://www.amazon.com/Purely-Functional-Structures-Chris-Okasaki-ebook/dp/B00AKE1V04/ref=sr_1_1?keywords=functional+data+structures&qid=1551104292&s=digital-text&sr=1-1)
+
 ## Embedded Linux
 
 - [What I Wish I'd Know When I was an Embedded Linux Newbie](https://www.embeddedarm.com/blog/what-i-wish-id-known-when-i-was-an-embedded-linux-newbie/)
